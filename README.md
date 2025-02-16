@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning mandarin<br>👯 I’m looking to collaborate with my teachers masters degree as an intern to learn about data science and Ai<br>🌱 I’m currently learning numeric methods, software engineering and computer graphics<br>💬 Ask me about keyboards and videogames<br>⚡ Fun fact, i love cooking for my fiends and family:D
+🔭 I’m currently working on learning mandarin<br>👯 I’m looking to collaborate with my teachers masters degree as an assistant to learn about data science and Ai<br>🌱 I’m currently learning numeric methods, software engineering and computer graphics<br>💬 Ask me about keyboards and videogames<br>⚡ Fun fact, i love cooking for my fiends and family:D
 
 
 ## 🌐 Socials:
